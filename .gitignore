@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+ML_notebooks/new_trasaction.csv
+ML_notebooks/transactions.csv
+ML_notebooks/customer_features.parquet

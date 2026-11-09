@@ -1,0 +1,4 @@
+Invoice ID,Customer ID,Product ID,Unit Price,Quantity,Date,Discount,Line Total,Transaction Type,Line
+INV-2025-003,CUST-1003,PROD-101,120,1,2025-01-22,0.0,120.0,Sale,1
+INV-2025-016,CUST-1003,PROD-412,45,1,2025-03-27,0.0,45.0,Sale,1
+INV-2025-029,CUST-1003,PROD-118,95,2,2025-06-11,0.05,180.5,Sale,1
